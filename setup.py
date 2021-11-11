@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="foo",
+    name="megafoo",
     version="1.0",
     packages=['o9_dummy_folder'],
     include_package_data=True
